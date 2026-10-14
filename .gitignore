@@ -1,0 +1,8 @@
+# Бэкапы настроек Windhawk, которые создаёт утилита при запуске
+WindhawkFix-backup-*/
+
+# Служебное
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
